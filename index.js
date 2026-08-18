@@ -1,4 +1,4 @@
-let role = "Admin";
+let role = "Admins";
 let password = "TheMaster";
 if (role === "Admin") {
   if (password === "TheMaster") {
@@ -9,6 +9,6 @@ if (role === "Admin") {
     console.log("I don't know you");
   }
 } else {
-  console.log("This is not an admin");
+  console.log("I don't know you, you are not an admin");
 }
 //Admin code
