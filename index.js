@@ -11,3 +11,4 @@ if (role === "Admin") {
 } else {
   console.log("This is not an admin");
 }
+//Admin code
